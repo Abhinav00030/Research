@@ -18,7 +18,7 @@ status: The ticket's current status, which was originally set to "open."
 
 One unique method that specifies how the ticket object is rendered as a string and is helpful for printing is called __str__. 
 
-Desk Course
+Desk Course:
 
 These class characteristics are used to handle the ticket gathering process by this class:
 
@@ -40,7 +40,7 @@ displayTicket: Prints a ticket's information along with its assigned ticket numb
 
 displayStatistics: Outputs the overall number of tickets filed, together with the numbers of tickets that are open and closed.
 
-Main Function
+Main Function:
 
 The primary function replicates the activities of a help desk by:
 establishing a HelpDesk class instance.
